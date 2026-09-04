@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updated": "2026-09-04",
+  "groups": [
+    {
+      "name": "TUIDE",
+      "status": "Activo",
+      "type": "Girl Group",
+      "members": 7,
+      "agency": "ABD",
+      "debut": "2026-08-24",
+      "debutAlbum": "TUNE & PLAY",
+      "titleTrack": "SUN KISS",
+      "description": "Nuevo girl group de siete integrantes que inicia su carrera en 2026."
+    }
+  ]
+}
